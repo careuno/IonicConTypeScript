@@ -33,7 +33,6 @@ gulp.task('sass', function(done) {
 });
 
 gulp.task('watch', function() {
-  // compileTypeScript();
   gulp.watch(paths.sass, ['sass']);
   gulp.watch(paths.typescript, ['compile'])
 });
