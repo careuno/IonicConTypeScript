@@ -1,1 +1,1 @@
-Ejemplo de Ionic con TypeScript escrito en WebStorm
+Ejemplo de una aplicación Ionic usando TypeScript
